@@ -13,5 +13,11 @@ Esta carpeta tiene los codigos de la primera practica - Kotlin
   - Ejercicio 3: Calculadora básica
   - Ejercicio 4: Adivina el número
 
+- Practica2:
+  - Ejercicio 1: Calculador de precio con descuento de un producto
+  - Ejercicio 2: Calculador de area de figuras geometricas 
+  - Ejercicio 3: Gestor de Biblioteca
+
+    
 ## Ejecución
 Los programas pueden ejecutarse desde IntelliJ IDEA.

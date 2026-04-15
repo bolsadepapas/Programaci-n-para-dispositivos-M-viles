@@ -6,6 +6,7 @@
 Este repositorio contiene las prácticas desarrolladas en Kotlin y otros programas durante el semestre.
 
 ## 📂 Contenido
-- Kotlin_Practicas 
+- Kotlin_Practicas
+- Android Studio Practicas
 
 

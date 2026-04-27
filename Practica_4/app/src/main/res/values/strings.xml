@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica4</string>
+    <string name="resumen_completo">Nombre: %1$s\nEdad: %2$d\nCiudad: %3$s\nCorreo: %4$s</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_ciudad">Ciudad</string>
+    <string name="hint_correo">Correo</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_volver">Volver a editar</string>
+    <string name="perfil_guardado">Perfil guardado correctamente</string>
+</resources>
